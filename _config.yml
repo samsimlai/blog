@@ -1,7 +1,8 @@
 theme: minima
 title: "Test title"
 description: "Test description"
-minima:
-  show_excerpts: true
+show_excerpts: true
+header_pages:
+  - about.md
 author:
   name: "Samriddhi Simlai"
