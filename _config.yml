@@ -2,6 +2,6 @@ theme: minima
 title: "Test title"
 description: "Test description"
 minima:
-  skin: dark
-  nav_pages:
-    - about.md
+  show_excerpts: true
+author:
+  name: Samriddhi Simlai
