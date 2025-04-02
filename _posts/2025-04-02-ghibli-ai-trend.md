@@ -19,9 +19,9 @@ What struck me, too, as a marketing professional was this: it wasn’t even an o
 And yet, I couldn’t and still cannot shake the discomfort. There’s something about it that unsettles and feels... off.
 
 ## A Master’s Touch, Replaced by a Prompt?
-The first thought causing discomfort begins with the simple question: *Would Studio Ghibli have consented to this?* Well, as most of us are aware by now, Studio Ghibli hasn’t publicly clarified whether it gave permission for its style to be used this way — leaving the question of consent and creative rights murky at best.
+The first thought causing discomfort begins with the simple question: **Would Studio Ghibli have consented to this?** Well, as most of us are aware by now, Studio Ghibli hasn’t publicly clarified whether it gave permission for its style to be used this way — leaving the question of consent and creative rights murky at best.
 
-Beyond the obvious question of the creators’ consent, honestly, as a Studio Ghibli enthusiast and fan, perhaps the very initial discomfort I felt wasn’t just about aesthetics or authorship—but about essence. The very essence Ghibli has spent decades quietly teaching us to notice. Through story after story, and through the slow, deliberate process of its creation, Studio Ghibli has always asked something rare of its audience: to pay attention. Not just to what happens, but to *how* it feels.
+**Beyond the obvious question of the creators’ consent, honestly, as a Studio Ghibli enthusiast and fan, perhaps the very initial discomfort I felt wasn’t just about aesthetics or authorship—but about essence. The very essence Ghibli has spent decades quietly teaching us to notice. Through story after story, and through the slow, deliberate process of its creation, Studio Ghibli has always asked something rare of its audience: to pay attention. Not just to what happens, but to *how* it feels.**
 
 Those familiar with Hayao Miyazaki’s work—the visionary behind Studio Ghibli—know his relationship with animation and storytelling is nothing short of sacred. Every frame is a meditation. A philosophy. A quiet rebellion against speed and spectacle. 
 
@@ -61,20 +61,20 @@ Perhaps AI art will always lack something ineffable. That doesn’t mean we shou
 ## Ghibli is trending. But at what cost?
 Despite everything, Studio Ghibli is now part of the global digital zeitgeist. Even without comment, they’re trending, everywhere. It’s an incredible feat of soft power and accidental branding. The dream of a Ghibli life is now internet-native, memeified, universal.
 
-**And so, it is not unnatural for Ghibli fans to be uncomfortable this past week. There is an undeniable poetic irony in seeing Studio Ghibli AI art trending. After all, this is an art born from patience and hand-drawn humanity, now trending thanks to the very industrialization its creators once resisted.**
+And so, it is not unnatural for Ghibli fans to be uncomfortable this past week. There is an undeniable poetic irony in seeing Studio Ghibli AI art trending. **After all, this is an art born from patience and hand-drawn humanity, now trending thanks to the very industrialization its creators once resisted.** 
 
-But maybe this discomfort isn’t just a glitch in the system—it’s a feature of our awareness. It means something in us still recognizes the difference between craft and copy, between lived emotion and automated reproduction. It’s a reminder that convenience isn’t the same as connection. And this sort of signals a cultural shift in our understanding, that is due with the advent of AI.
+**But maybe this discomfort isn’t just a glitch in the system—it’s a feature of our awareness. It means something in us still recognizes the difference between craft and copy, between lived emotion and automated reproduction. It’s a reminder that convenience isn’t the same as connection. And this sort of signals a cultural shift in our understanding, that is due with the advent of AI.**
 
 ## We can't prompt our way out of this
-The recent pushback by creators, from grassroots campaigns to landmark lawsuits by artists like Kelly McKernan, also speaks to that cultural turning point: a demand for respect, consent, and true digital ownership in an age of endless remixing. Think about it: this cultural intervention is organic and necessary. It only asks that we stop treating art as infinitely remixable, and start treating creators as stakeholders in the systems profiting from their labor, their memories, their voice.
+**The recent pushback by creators, from grassroots campaigns to landmark lawsuits by artists like Kelly McKernan, also speaks to that cultural turning point: a demand for respect, consent, and true digital ownership in an age of endless remixing. Think about it: this cultural intervention is organic and necessary.** It only asks that we stop treating art as infinitely remixable, and start treating creators as stakeholders in the systems profiting from their labor, their memories, their voice.
 
 To be clear: AI is not the enemy. But apathy is. And unchecked acceleration always comes at a cost — a pattern we’ve seen too many times before. Social media grew with little oversight until we were forced to confront its effects on attention spans, public discourse, and the mental health of an entire generation.
 
 Now, AI is racing down a similar path. Its carbon footprint is expanding rapidly, powered by massive server farms and compute-heavy models that require enormous energy. Training a single large language model can emit as much carbon as five cars over their entire lifetimes. And yet, our climate infrastructure hasn’t caught up — not in regulation, not in energy sourcing, and arguably, not in global coordination.
 
-Still, we must be honest: AI is inevitable. It is already reshaping industries and accelerating workflows, and that’s not inherently a bad thing. It’s also doing some *undeniably* good things like helping make spaces more accessible to a degree that was impossible previously. For example, I recently learnt about ~[Tarjimly](https://www.tarjimly.org/)~, a nonprofit using AI for real-time language translation that helps refugees communicate. There are millions of similar use cases where AI is unarguably good.
+Still, we must be honest: AI is inevitable. It is already reshaping industries and accelerating workflows, and that’s not inherently a bad thing. It’s also doing some *undeniably* good things like helping make spaces more accessible to a degree that was impossible previously. For example, I recently learnt about [Tarjimly](https://www.tarjimly.org/), a nonprofit using AI for real-time language translation that helps refugees communicate. There are millions of similar use cases where AI is unarguably good.
 
-The point is: we should not resist progress, but try to meet it with intention. Avoiding a dystopian future won’t come from slowing down AI — it will come from building systems where ethics lead, not lag.
+**The point is: we should not resist progress, but try to meet it with intention.** Avoiding a dystopian future won’t come from slowing down AI — it will come from building systems where ethics lead, not lag.
 
 So, to that point, this definitely isn’t a call to ban AI-generated art. That ship has sailed and it’s impractical to want to bring it back. But it is a call to *pause*—to ask better questions. To hold space for complexity. To build tech ecosystems where ethical foresight is not an afterthought, but the blueprint. 
 
@@ -85,7 +85,7 @@ Until then, we, as digital consumers, users, scrollers, sharers, should keep fee
 ## The paradox: Commodifying art will only make it more missed
 Specifically – when it comes to art, we’re not just experiencing a groundbreaking technological shift — we’re living through an extremely important cultural one. And nowhere is that more visible than in the way AI enables us to reproduce aesthetics at scale, to summon style with a few words. The tools are dazzling. But so is the speed at which they’re flattening the process into product.
 
-We can’t reasonably expect society to critically engage with what it percieves as a commodity; that’s never been the norm. So the idea that consumers will approach AI-generated art with deeper scrutiny is, frankly, wishful thinking. And in an era of frictionless creation and infinite scroll, it feels more unlikely than ever.
+**We can’t reasonably expect society to critically engage with what it percieves as a commodity; that’s never been the norm.** So the idea that consumers will approach AI-generated art with deeper scrutiny is, frankly, wishful thinking. And in an era of frictionless creation and infinite scroll, it feels more unlikely than ever.
 
 **But here’s the interesting paradox worth reflecting on – maybe commodification doesn’t automatically mean devaluation. Maybe, in a strange way, the mass reproduction of beauty has made it easier, not harder, to recognize what *can’t* be faked.**
 
