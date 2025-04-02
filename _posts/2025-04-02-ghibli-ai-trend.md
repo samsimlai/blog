@@ -101,18 +101,17 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 
 **That’s not something you can prompt. The pause before the line still belongs to us. Maybe, that’s what makes art… *art*.**
 
-
 *The views expressed in this article are solely my own and do not reflect those of any current or past employers or affiliated organizations.*
 
 
-<h3>💌 Subscribe to Unprompted</h3>
-<p>Get new posts straight to your inbox. No spam — just thoughtful writing, when it’s ready.</p>
+<h3>💌 Like what you read? Subscribe to Unprompted</h3>
+<p>Get tech + culture + impact posts like this straight to your inbox.</p>
 
 <form 
-  action="https://buttondown.email/api/emails/embed-subscribe/unprompted" 
+  action="https://buttondown.com/api/emails/embed-subscribe/unprompted" 
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/unprompted', 'popupwindow', 'scrollbars=yes,width=600,height=600'); return true;"
+  onsubmit="window.open('https://buttondown.com/unprompted', 'popupwindow', 'scrollbars=yes,width=600,height=600'); return true;"
   class="embeddable-buttondown-form"
   style="max-width: 500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;"
 >
@@ -135,4 +134,6 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 <p style="font-size: 0.9rem; color: gray; margin-top: 0.75rem;">
 You'll be asked to confirm via email after subscribing.
 </p>
+
+
 
