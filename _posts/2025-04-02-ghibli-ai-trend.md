@@ -86,7 +86,7 @@ I obviously do not claim to have answers to how we can get there but I understan
 
 Until then, we, as digital consumers, users, scrollers, sharers, should keep feeling the discomfort. And more importantly, we should name it.
 
-## The paradox: Commodifying art will only make it more missed
+## The paradox: Will commodifying art will only make it more missed?
 Specifically – when it comes to art, we’re not just experiencing a groundbreaking technological shift — we’re living through an extremely important cultural one. And nowhere is that more visible than in the way AI enables us to reproduce aesthetics at scale, to summon style with a few words. The tools are dazzling. But so is the speed at which they’re flattening the process into product.
 
 **We can’t reasonably expect society to critically engage with what it percieves as a commodity; that’s never been the norm.** So the idea that consumers will approach AI-generated art with deeper scrutiny is, frankly, wishful thinking. And in an era of frictionless creation and infinite scroll, it feels more unlikely than ever.
