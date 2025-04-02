@@ -95,7 +95,7 @@ Specifically – when it comes to art, we’re not just experiencing a groundbre
 
 Because even as AI floods our feeds and mimics creativity with uncanny fluency, something essential still holds. The art that lingers and truly moves us, carries a tension, a trace, a humanness, a lived-in intentionality – that machines can’t replicate. And somewhere, deep down, *we* know the difference.
 
-That’s what unsettles me. And maybe, that’s also what reassures me.
+That’s what unsettles me. And maybe, in a naive way, that’s also what reassures me, and makes me hopeful about humanity *feeling* enough to not devalue art.
 
 Because for all its exciting progress, maybe AI will always fall short of that final frame: the breath before a character speaks, the pause that tells a story without words. That's why only Miyazaki can make us feel what Ghibli movies do and AI can only lean into that nostalgia as a commodity.
 
