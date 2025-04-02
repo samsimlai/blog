@@ -106,16 +106,14 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 
 
 
-<h3>💌 Stay in the Loop</h3>
-<p>Want posts like this straight to your inbox?<br>
-Get tech + culture + impact nuggets when they’re live.</p>
+<h3>💌 Subscribe to Unprompoted</h3>
+<p>Want new posts like this straight to your inbox?<br>
+Get my tech+culture+impact articles as they’re live.</p>
 
 <div style="border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9; max-width: 500px; margin: 1rem 0;">
-  <form action="https://blogtrottr.com/subscribe" method="get" target="_blank">
+  <form action="https://blogtrottr.com/?subscribe=https://samsimlai.github.io/feed.xml" method="post" target="_blank">
     <label for="email">📧 Your Email:</label><br>
     <input type="email" name="address" id="email" placeholder="you@example.com" required style="padding: 8px; width: 100%; margin-top: 5px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"><br>
-    <input type="hidden" name="feed" value="https://samsimlai.github.io/feed.xml">
     <input type="submit" value="Subscribe" style="background-color: #0366d6; color: white; padding: 10px 16px; border: none; border-radius: 4px; cursor: pointer;">
   </form>
 </div> 
-
