@@ -100,3 +100,6 @@ That’s what unsettles me. And maybe, that’s also what reassures me.
 Because for all its exciting progress, maybe AI will always fall short of that final frame: the breath before a character speaks, the pause that tells a story without words. That's why only Miyazaki can make us feel what Ghibli movies do and AI can only lean into that nostalgia as a commodity.
 
 **That’s not something you can prompt. The pause before the line still belongs to us. Maybe, that’s what makes art… *art*.**
+
+
+*The views expressed in this article are solely my own and do not reflect those of any current or past employers or affiliated organizations.*
