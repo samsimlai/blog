@@ -108,9 +108,11 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 <h3>💌 Subscribe to Unprompted</h3>
 <p>Get new posts straight to your inbox. No spam — just thoughtful writing, when it’s ready.</p>
 
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/unprompted"
+<form 
+  action="https://buttondown.email/api/emails/embed-subscribe/unprompted" 
   method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/unprompted', 'popupwindow', 'scrollbars=yes,width=600,height=600'); return true;"
   class="embeddable-buttondown-form"
   style="max-width: 500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;"
 >
@@ -119,7 +121,7 @@ Because for all its exciting progress, maybe AI will always fall short of that f
     type="email" 
     name="email" 
     id="bd-email" 
-    placeholder="you@example.com"
+    placeholder="you@example.com" 
     required
     style="padding: 8px; width: 100%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"
   />
@@ -131,6 +133,6 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 </form>
 
 <p style="font-size: 0.9rem; color: gray; margin-top: 0.75rem;">
-You’ll get a confirmation email to finish subscribing.
+You'll be asked to confirm via email after subscribing.
 </p>
 
