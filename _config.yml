@@ -1,5 +1,6 @@
 header_pages:
- - about.html
+ - index.md
+ - about.md
 theme: minima
 title: "Unprompted"
 description: "In an age of prompting, hear me Unprompted. Thoughts on product, people, purpose and the spaces in between."
