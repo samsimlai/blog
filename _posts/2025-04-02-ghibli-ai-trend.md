@@ -107,33 +107,20 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 <h3>💌 Like what you read? Subscribe to Unprompted</h3>
 <p>Get tech + culture + impact posts like this straight to your inbox.</p>
 
-<form 
-  action="https://buttondown.com/api/emails/embed-subscribe/unprompted" 
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/unprompted"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/unprompted', 'popupwindow', 'scrollbars=yes,width=600,height=600'); return true;"
+  onsubmit="window.open('https://buttondown.com/unprompted', 'popupwindow')"
   class="embeddable-buttondown-form"
-  style="max-width: 500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;"
 >
-  <label for="bd-email" style="display: block; font-weight: bold; margin-bottom: 0.5rem;">📧 Your Email</label>
-  <input 
-    type="email" 
-    name="email" 
-    id="bd-email" 
-    placeholder="you@example.com" 
-    required
-    style="padding: 8px; width: 100%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"
-  />
-  <input 
-    type="submit" 
-    value="Subscribe" 
-    style="background-color: #0366d6; color: white; padding: 10px 16px; border: none; border-radius: 4px; cursor: pointer;"
-  />
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/unprompted" target="_blank">Powered by Buttondown.</a>
+  </p>
 </form>
-
-<p style="font-size: 0.9rem; color: gray; margin-top: 0.75rem;">
-You'll be asked to confirm via email after subscribing.
-</p>
-
 
 
