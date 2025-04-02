@@ -105,15 +105,29 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 *The views expressed in this article are solely my own and do not reflect those of any current or past employers or affiliated organizations.*
 
 
+<h3>💌 Like what you read? Subscribe to Unprompted</h3>
+<p>Get tech + culture + impact posts like this straight to your inbox.</p>
 
-<h3>💌 Subscribe to Unprompoted</h3>
-<p>Want new posts like this straight to your inbox?<br>
-Get my tech+culture+impact articles as they’re live.</p>
-
-<div style="border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9; max-width: 500px; margin: 1rem 0;">
-  <form action="https://blogtrottr.com/?subscribe=https://samsimlai.github.io/feed.xml" method="post" target="_blank">
-    <label for="email">📧 Your Email:</label><br>
-    <input type="email" name="address" id="email" placeholder="you@example.com" required style="padding: 8px; width: 100%; margin-top: 5px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"><br>
-    <input type="submit" value="Subscribe" style="background-color: #0366d6; color: white; padding: 10px 16px; border: none; border-radius: 4px; cursor: pointer;">
-  </form>
-</div> 
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/unprompted"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/unprompted', 'popupwindow')"
+  class="embeddable-buttondown-form"
+  style="max-width: 500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;"
+>
+  <label for="bd-email" style="display: block; font-weight: bold; margin-bottom: 0.5rem;">📧 Your Email</label>
+  <input 
+    type="email" 
+    name="email" 
+    id="bd-email" 
+    placeholder="you@example.com"
+    required
+    style="padding: 8px; width: 100%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"
+  />
+  <input 
+    type="submit" 
+    value="Subscribe" 
+    style="background-color: #0366d6; color: white; padding: 10px 16px; border: none; border-radius: 4px; cursor: pointer;"
+  />
+</form>
