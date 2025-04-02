@@ -103,40 +103,14 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 
 *The views expressed in this article are solely my own and do not reflect those of any current or past employers or affiliated organizations.*
 
+<p style="font-size: 0.9rem; color: #999;">Like what you’re reading? Consider subscribing to Unprompted.</p>
 
-<p style="font-size: 0.9rem; color: #999; margin-top: 3rem; margin-bottom: 0.5rem;">
-  Like what you’re reading?
-</p>
-
-<h3>💌 Subscribe to Unprompted</h3>
-<p>Get new posts straight to your inbox. No spam — just thoughtful writing, when it’s ready.</p>
-
-<form 
-  action="https://buttondown.email/api/emails/embed-subscribe/unprompted" 
-  method="post"
-  class="embeddable-buttondown-form"
-  style="max-width: 500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;"
->
-  <label for="bd-email" style="display: block; font-weight: bold; margin-bottom: 0.5rem;">📧 Your Email</label>
-  <input 
-    type="email" 
-    name="email" 
-    id="bd-email" 
-    placeholder="you@example.com" 
-    required 
-    style="padding: 8px; width: 100%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"
-  />
-  <input 
-    type="submit" 
-    value="Subscribe" 
-    style="background-color: #0366d6; color: white; padding: 10px 16px; border: none; border-radius: 4px; cursor: pointer;"
-  />
+<form action="https://emailoctopus.com/lists/e93b25d0-101a-11f0-9e5d-09f76fc1bf00/members/embedded/1.1/add" method="post" target="_blank" style="max-width:500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;">
+  <label for="email" style="font-weight:bold; margin-bottom:0.5rem; display:block;">📧 Your Email</label>
+  <input type="email" name="field_0" id="email" placeholder="you@example.com" required style="padding:8px; width:100%; margin-bottom:10px; border:1px solid #ccc; border-radius:4px;">
+  <input type="submit" value="Subscribe" style="background-color:#0366d6; color:white; padding:10px 16px; border:none; border-radius:4px; cursor:pointer;">
 </form>
 
 <p style="font-size: 0.9rem; color: gray; margin-top: 0.75rem;">
-You’ll be redirected to confirm your email with Buttondown.
+You’ll be redirected briefly to confirm your subscription.
 </p>
-
-
-
-
