@@ -56,7 +56,7 @@ It’s the same reason Ghibli hits differently. In *Spirited Away*, it isn’t g
 Perhaps, AI can simulate No Face and Chihiro’s color palette, the pacing, the visual motifs. But that is not what makes them immortal characters to Ghibli watchers; it is their journeys. AI cannot connect by *observing* the human experience. It has not lived. It does not ache.
 
 ## So why are we drawn to it anyway?
-Perhaps, because it’s easy. Because it’s arguably accessible. Because it’s fun to see yourself as a Ghibli character, especially when the real world feels harsh and noisy. In a way, these filters and fan arts are a kind of escapism—like cosplay for the soul.
+Perhaps, because it’s easy. Because it’s arguably accessible. And because AI image generation models have finally reached here (and it's only going to keep getting better). Also, because it’s fun to see yourself as a Ghibli character, especially when the real world feels harsh and noisy. In a way, these filters and fan arts are a kind of escapism—like cosplay for the soul.
 
 But it does raise a larger question: *What will we consider art in the future?* If something can be replicated instantly, is it still sacred? If the process no longer requires struggle, joy, revision, living—does it carry the same meaning?
 
