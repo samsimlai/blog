@@ -1,7 +1,9 @@
 ---
 title: "Everyone Wants to Be a Ghibli Character. So, Why Does It Feel So Wrong?"
 date: 2025-04-02
+image: /assets/ghibli-header.jpg
 ---
+
 There’s a peculiar kind of magic in watching Studio Ghibli films. The kind that doesn’t just entertain — it lingers. It coats your soul like the afternoon light in *My Neighbor Totoro*, or the silent resilience of *Princess Mononoke*. It makes you want to touch grass, sip tea slowly, notice the wind, and wonder why we ever stopped paying attention to these things in the first place.
 
 So it makes sense why people are yearning to romanticize life through a Ghibli lens. When OpenAI CEO Sam Altman shared the new AI-generated Ghibli-style image model, it took just hours—not days—for it to go viral. Suddenly, my feed was flooded: wedding photos reimagined in soft Ghibli pastels, childhood pictures transformed into whimsical dreamscapes, even pets rendered as characters from a world that never existed, but felt deeply familiar.
