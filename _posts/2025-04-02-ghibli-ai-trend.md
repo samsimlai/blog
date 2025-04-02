@@ -104,23 +104,39 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 *The views expressed in this article are solely my own and do not reflect those of any current or past employers or affiliated organizations.*
 
 
-<h3>💌 Like what you read? Subscribe to Unprompted</h3>
-<p>Get tech + culture + impact posts like this straight to your inbox.</p>
+<p style="font-size: 0.9rem; color: #999; margin-top: 3rem; margin-bottom: 0.5rem;">
+  Like what you’re reading?
+</p>
 
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/unprompted"
+<h3>💌 Subscribe to Unprompted</h3>
+<p>Get new posts straight to your inbox. No spam — just thoughtful writing, when it’s ready.</p>
+
+<form 
+  action="https://buttondown.email/api/emails/embed-subscribe/unprompted" 
   method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/unprompted', 'popupwindow')"
   class="embeddable-buttondown-form"
+  style="max-width: 500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;"
 >
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/unprompted" target="_blank">Powered by Buttondown.</a>
-  </p>
+  <label for="bd-email" style="display: block; font-weight: bold; margin-bottom: 0.5rem;">📧 Your Email</label>
+  <input 
+    type="email" 
+    name="email" 
+    id="bd-email" 
+    placeholder="you@example.com" 
+    required 
+    style="padding: 8px; width: 100%; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 4px;"
+  />
+  <input 
+    type="submit" 
+    value="Subscribe" 
+    style="background-color: #0366d6; color: white; padding: 10px 16px; border: none; border-radius: 4px; cursor: pointer;"
+  />
 </form>
+
+<p style="font-size: 0.9rem; color: gray; margin-top: 0.75rem;">
+You’ll be redirected to confirm your email with Buttondown.
+</p>
+
+
 
 
