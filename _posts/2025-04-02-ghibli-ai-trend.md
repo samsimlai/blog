@@ -105,14 +105,12 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 *The views expressed in this article are solely my own and do not reflect those of any current or past employers or affiliated organizations.*
 
 
-<h3>💌 Like what you read? Subscribe to Unprompted</h3>
-<p>Get tech + culture + impact posts like this straight to your inbox.</p>
+<h3>💌 Subscribe to Unprompted</h3>
+<p>Get new posts straight to your inbox. No spam — just thoughtful writing, when it’s ready.</p>
 
 <form
-  action="https://buttondown.com/api/emails/embed-subscribe/unprompted"
+  action="https://buttondown.email/api/emails/embed-subscribe/unprompted"
   method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/unprompted', 'popupwindow')"
   class="embeddable-buttondown-form"
   style="max-width: 500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;"
 >
@@ -131,3 +129,8 @@ Because for all its exciting progress, maybe AI will always fall short of that f
     style="background-color: #0366d6; color: white; padding: 10px 16px; border: none; border-radius: 4px; cursor: pointer;"
   />
 </form>
+
+<p style="font-size: 0.9rem; color: gray; margin-top: 0.75rem;">
+You’ll get a confirmation email to finish subscribing.
+</p>
+
