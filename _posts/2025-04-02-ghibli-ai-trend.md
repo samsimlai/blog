@@ -31,7 +31,7 @@ Notice how within these four seconds, entire lives unfold: A couple momentarily 
 
 Taking one year to create it wasn't inefficiency — it was reverence. Reverence for the craft, the story, the lived emotion behind every line and brushstroke. 
 
-> You see, Miyazaki's worlds are not just beautiful because they’re well-animated. His worlds are beautiful because they *understand* what it means to be human. Miyazaki’s worlds depict joy, slowness, fatigue, wonder, grief, and loss in ways that only someone who’s felt or observed those things can portray.
+*You see, Miyazaki's worlds are not just beautiful because they’re well-animated. His worlds are beautiful because they *understand* what it means to be human. Miyazaki’s worlds depict joy, slowness, fatigue, wonder, grief, and loss in ways that only someone who’s felt or observed those things can portray.*
 
 Now, AI scrapes those aesthetics. Repackages them. Mimics them. And it’s being fed into our screens at lightning speed. You cannot ignore how the creators of art feel about their art being replicated. Miyazaki himself once described AI-generated art as "an insult to life itself."
 
@@ -46,7 +46,7 @@ Hearing Kelly speak changed something in me. I had always supported creators’ 
 
 Kelly didn’t just speak about the violation of not being asked. They spoke about what it *took* to create that work in the first place—the slow accumulation of memories, the joyful and messy bits of an entire life that shaped their creative voice. Years of becoming. Years of vulnerability. And now, in seconds, it could all be replicated by a machine that had never lived a single moment of it.
 
-> That’s the part AI can’t touch. Not just the technique. Not the brushwork or the color palette. But the humanity.
+*That’s the part AI can’t touch. Not just the technique. Not the brushwork or the color palette. But the humanity.*
 It’s the same reason Ghibli hits differently. In *Spirited Away*, it isn’t grand speeches or that makes us resonate with Chihiro’s coming-of-age or No-Face’s loneliness. It’s in subtle glances, awkward stumbles, moments of pause. No-Face doesn’t speak of his pain; he embodies it, lingering in doorways, offering gold, consuming everything in a desperate attempt to be seen. His loneliness isn’t explained. It’s felt. 
 
 Perhaps, AI can simulate No Face and Chihiro’s color palette, the pacing, the visual motifs. But that is not what makes them immortal characters to Ghibli watchers; it is their journeys. AI cannot connect by *observing* the human experience. It has not lived. It does not ache.
@@ -61,7 +61,7 @@ Perhaps AI art will always lack something ineffable. That doesn’t mean we shou
 ## Ghibli Is Trending. But At What Cost?
 Despite everything, Studio Ghibli is now part of the global digital zeitgeist. Even without comment, they’re trending, everywhere. It’s an incredible feat of soft power and accidental branding. The dream of a Ghibli life is now internet-native, memeified, universal.
 
-> And so, it is not unnatural for Ghibli fans to be uncomfortable this past week. There is an undeniable poetic irony in seeing Studio Ghibli AI art trending. After all, this is an art born from patience and hand-drawn humanity, now trending thanks to the very industrialization its creators once resisted. 
+*And so, it is not unnatural for Ghibli fans to be uncomfortable this past week. There is an undeniable poetic irony in seeing Studio Ghibli AI art trending. After all, this is an art born from patience and hand-drawn humanity, now trending thanks to the very industrialization its creators once resisted.*
 
 But maybe this discomfort isn’t just a glitch in the system—it’s a feature of our awareness. It means something in us still recognizes the difference between craft and copy, between lived emotion and automated reproduction. It’s a reminder that convenience isn’t the same as connection. And this sort of signals a cultural shift in our understanding, that is due with the advent of AI.
 
@@ -87,7 +87,7 @@ Specifically – when it comes to art, we’re not just experiencing a groundbre
 
 We can’t reasonably expect society to critically engage with what it’s long been trained to consume as a commodity. That’s never been the norm. And in an era of frictionless creation and infinite scroll, it feels even less likely now.
 
-> But here’s the interesting paradox worth reflecting on – maybe commodification doesn’t automatically mean devaluation. Maybe, in a strange way, the mass reproduction of beauty has made it easier, not harder, to recognize what *can’t* be faked.
+*But here’s the interesting paradox worth reflecting on – maybe commodification doesn’t automatically mean devaluation. Maybe, in a strange way, the mass reproduction of beauty has made it easier, not harder, to recognize what *can’t* be faked.*
 
 Because even as AI floods our feeds and mimics creativity with uncanny fluency, something essential still holds. The art that lingers and truly moves us, carries a tension, a trace, a humanness, a lived-in intentionality – that machines can’t replicate. And somewhere, deep down, *we* know the difference.
 
