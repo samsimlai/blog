@@ -8,7 +8,7 @@ There’s a peculiar kind of magic in watching Studio Ghibli films. The kind tha
 
 So it makes sense why people are yearning to romanticize life through a Ghibli lens. When OpenAI CEO Sam Altman shared the new AI-generated Ghibli-style image model, it took just hours—not days—for it to go viral. Suddenly, my feed was flooded: wedding photos reimagined in soft Ghibli pastels, childhood pictures transformed into whimsical dreamscapes, even pets rendered as characters from a world that never existed, but felt deeply familiar.
 
-When I first saw it, I felt a tangle of emotions: wonder, nostalgia, unease - maybe all at once.
+**When I first saw it, I felt a tangle of emotions: wonder, nostalgia, unease - maybe all at once.**
 
 A bit of context may explain my reactions: Despite the surge of unsettling AI headlines — *deepfakes rewriting truths*, *algorithms quietly training on unconsenting data* — I’ve tried to stay grounded in the idea that AI, if shaped with intention, can be a force for good. I try to stay informed, not reactive. A power user, not just a passive observer. I keep up with models, fine-tuning, and prompt engineering—tracking how GPT-4 is outperforming humans on standardized evaluations like MMLU, tackling complex reasoning tasks in BIG-bench, and consistently ranking high on commonsense-heavy tests like HellaSwag and ARC. These aren’t fringe metrics; they’re the gold standard in the field.
 
@@ -16,7 +16,7 @@ So yes, it fascinates me how far we’ve come. And I’ll admit: part of me want
 
 And at first, it *was* kind of wonderful. People were genuinely delighted. Seeing themselves and their loved ones in a Ghibli world made them feel seen, softened. A friend’s wedding became a watercolor fairytale. A little nephew I adore, rosy-cheeked and giggling, rendered in a Ghibli landscape, looked like pure joy.
 
-What struck me, too, as a marketing professional was this: it wasn’t even an official campaign—yet it became, arguably, one of the most successful organic marketing waves Studio Ghibli never planned for. The internet didn’t just love it. It claimed it. Everyone wanted to be the protagonist of a gentle, hopeful story. Even people who’d never seen a single Ghibli movie found themselves longing for its warmth, its stillness, its sense of wonder.
+**What struck me, too, as a marketing professional was this: it wasn’t even an official campaign—yet it became, arguably, one of the most successful organic marketing waves Studio Ghibli never planned for. The internet didn’t just love it. It claimed it.** Everyone wanted to be the protagonist of a gentle, hopeful story. Even people who’d never seen a single Ghibli movie found themselves longing for its warmth, its stillness, its sense of wonder.
 
 And yet, I couldn’t and still cannot shake the discomfort. There’s something about it that unsettles and feels... off.
 
@@ -25,15 +25,15 @@ The first thought causing discomfort begins with the simple question: **Would St
 
 **Beyond the obvious question of the creators’ consent, honestly, as a Studio Ghibli enthusiast and fan, perhaps the very initial discomfort I felt wasn’t just about aesthetics or authorship—but about essence. The very essence Ghibli has spent decades quietly teaching us to notice. Through story after story, and through the slow, deliberate process of its creation, Studio Ghibli has always asked something rare of its audience: to pay attention. Not just to what happens, but to *how* it feels.**
 
-Those familiar with Hayao Miyazaki’s work—the visionary behind Studio Ghibli—know his relationship with animation and storytelling is nothing short of sacred. Every frame is a meditation. A philosophy. A quiet rebellion against speed and spectacle. 
+Those familiar with Hayao Miyazaki’s work—the visionary behind Studio Ghibli—know his relationship with animation and storytelling is nothing short of sacred. Every frame is a meditation. A philosophy. A quiet rebellion against speed and spectacle. And it's not just Miyazaki's practice; that philosophy seems to echo in every Ghibli animator's work. 
 
-A famous example from Miyazaki’s work explains this perfectly: this four-second crowd scene from the *Wind Rises* that took over 1 year to animate.
+A famous example from Miyazaki and his team’s work explains this perfectly: this four-second crowd scene from the *Wind Rises* that took over 1 year to animate.
 
 ![Ghibli market scene still](/assets/ghibli-market.png)
 
-Notice how within these four seconds, entire lives unfold: A couple momentarily torn apart, trying to find each other again. A mother reaching for her child’s hand, separated by the current of bodies. Friends weaving through the chaos. An unruly horse. Tiny human moments—love, burden, longing—threaded into a swirl of motion. Each one coherent. Each one intentional. Little stories, happening all at once. 
+[Notice how within these four seconds, entire lives unfold](https://www.reddit.com/r/nextfuckinglevel/comments/1egdzja/this_4_second_crowd_scene_from_studio_ghiblis/): A couple momentarily torn apart, trying to find each other again. A mother reaching for her child’s hand, separated by the current of bodies. Friends weaving through the chaos. An unruly horse. Tiny human moments—love, burden, longing—threaded into a swirl of motion. Each one coherent. Each one intentional. Little stories, happening all at once. 
 
-Taking one year to create it wasn't inefficiency — it was reverence. Reverence for the craft, the story, the lived emotion behind every line and brushstroke. 
+**Taking one year to create it wasn't inefficiency — it was reverence. Reverence for the craft, the story, the lived emotion behind every line and brushstroke.**
 
 **You see, Miyazaki's worlds are not just beautiful because they’re well-animated. His worlds are beautiful because they *understand* what it means to be human. Miyazaki’s worlds depict joy, slowness, fatigue, wonder, grief, and loss in ways that only someone who’s felt or observed those things can portray.**
 
@@ -48,15 +48,15 @@ In May 2024, I attended a roundtable titled *“AI, Art, and Copyright,”* mode
 
 Hearing Kelly speak changed something in me. I had always supported creators’ rights, but mostly in the abstract—hashtags, headlines, broad declarations about consent and ethics. But that day, it wasn’t abstract. It was real. There was a face, a voice, a struggle. A life behind the art.
 
-Kelly didn’t just speak about the violation of not being asked. They spoke about what it *took* to create that work in the first place—the slow accumulation of memories, the joyful and messy bits of an entire life that shaped their creative voice. Years of becoming. Years of vulnerability. And now, in seconds, it could all be replicated by a machine that had never lived a single moment of it.
+Kelly didn’t *just* speak about the violation of not being asked or compensated fairly for their work. They spoke about what it *took* to create that work in the first place—the slow accumulation of memories, the joyful and messy bits of an entire life that shaped their creative voice. Years of becoming. Years of vulnerability. And now, in seconds, it could all be replicated by a machine that had never lived a single moment of it.
 
 **That’s the part AI can’t touch. Not just the technique. Not the brushwork or the color palette. But the humanity.**
-It’s the same reason Ghibli hits differently. In *Spirited Away*, it isn’t grand speeches or that makes us resonate with Chihiro’s coming-of-age or No-Face’s loneliness. It’s in subtle glances, awkward stumbles, moments of pause. No-Face doesn’t speak of his pain; he embodies it, lingering in doorways, offering gold, consuming everything in a desperate attempt to be seen. His loneliness isn’t explained. It’s felt. 
+It’s the same reason Ghibli hits differently. In *Spirited Away*, it isn’t grand speeches or that makes us resonate with Chihiro’s coming-of-age or No Face’s loneliness. It’s in subtle glances, awkward stumbles, moments of pause. No Face doesn’t speak of his pain; he embodies it, lingering in doorways, offering gold, consuming everything in a desperate attempt to be seen. His loneliness isn’t explained. It’s felt. 
 
 Perhaps, AI can simulate No Face and Chihiro’s color palette, the pacing, the visual motifs. But that is not what makes them immortal characters to Ghibli watchers; it is their journeys. AI cannot connect by *observing* the human experience. It has not lived. It does not ache.
 
 ## So why are we drawn to it anyway?
-Because it’s easy. Because it’s accessible. Because it’s fun to see yourself as a Ghibli character, especially when the real world feels harsh and noisy. In a way, these filters and fan arts are a kind of escapism—like cosplay for the soul.
+Perhaps, because it’s easy. Because it’s arguably accessible. Because it’s fun to see yourself as a Ghibli character, especially when the real world feels harsh and noisy. In a way, these filters and fan arts are a kind of escapism—like cosplay for the soul.
 
 But it does raise a larger question: *What will we consider art in the future?* If something can be replicated instantly, is it still sacred? If the process no longer requires struggle, joy, revision, living—does it carry the same meaning?
 
