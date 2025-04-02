@@ -27,6 +27,8 @@ Those familiar with Hayao Miyazaki’s work—the visionary behind Studio Ghibli
 
 A famous example from Miyazaki’s work explains this perfectly: this four-second crowd scene from the *Wind Rises* that took over 1 year to animate.
 
+![Ghibli market scene still](/assets/ghibli-market.png)
+
 Notice how within these four seconds, entire lives unfold: A couple momentarily torn apart, trying to find each other again. A mother reaching for her child’s hand, separated by the current of bodies. Friends weaving through the chaos. An unruly horse. Tiny human moments—love, burden, longing—threaded into a swirl of motion. Each one coherent. Each one intentional. Little stories, happening all at once. 
 
 Taking one year to create it wasn't inefficiency — it was reverence. Reverence for the craft, the story, the lived emotion behind every line and brushstroke. 
