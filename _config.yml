@@ -1,8 +1,10 @@
+header_pages:
+ - about.html
 theme: minima
 title: "Unprompted"
 description: "In an age of prompting, hear me Unprompted. Thoughts on product, people, purpose and the spaces in between."
 show_excerpts: true
-header_pages:
-  - about.md
-author:
-  name: Samriddhi Simlai
+author: "Samriddhi Simlai"
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
