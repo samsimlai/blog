@@ -44,7 +44,7 @@ That sentiment, while dramatic, resonates more the deeper you think from a creat
 ## What Does it Mean to Make Art in 2025?
 So what is the creator’s point of view?
 
-In May 2024, I attended a roundtable titled *“AI, Art, and Copyright,”* moderated by the Simpson Center for the Humanities at the University of Washington, where Kelly McKernan—a watercolor and gouache artist—spoke about their journey and their growing role in advocating for artists' rights. Their work is vibrant, deeply personal, and steeped in emotion—and now, unwittingly, part of an ongoing class action lawsuit against several AI companies accused of scraping thousands of artworks (including theirs) without consent.
+In May 2024, I attended a roundtable titled *“AI, Art, and Copyright,”* moderated by the Simpson Center for the Humanities at the University of Washington, where where [Kelly McKernan](https://www.kellymckernan.com/)— a watercolor and gouache artist—spoke about their journey and their growing role in advocating for artists' rights. Their work is vibrant, deeply personal, and steeped in emotion — and now, unwittingly, part of an ongoing class action lawsuit against several AI companies accused of scraping thousands of artworks (including theirs) without consent.
 
 Hearing Kelly speak changed something in me. I had always supported creators’ rights, but mostly in the abstract—hashtags, headlines, broad declarations about consent and ethics. But that day, it wasn’t abstract. It was real. There was a face, a voice, a struggle. A life behind the art.
 
@@ -72,11 +72,11 @@ And so, it is not unnatural for Ghibli fans to be uncomfortable this past week. 
 ## We can't prompt our way out of this
 **The recent pushback by creators, from grassroots campaigns to landmark lawsuits by artists like Kelly McKernan, also speaks to that cultural turning point: a demand for respect, consent, and true digital ownership in an age of endless remixing. Think about it: this cultural intervention is organic and necessary.** It only asks that we stop treating art as infinitely remixable, and start treating creators as stakeholders in the systems profiting from their labor, their memories, their voice.
 
-To be clear: AI is not the enemy. But apathy is. And unchecked acceleration always comes at a cost — a pattern we’ve seen too many times before. Social media grew with little oversight until we were forced to confront its effects on attention spans, public discourse, and the mental health of an entire generation.
+To be clear: AI is not the enemy. But apathy is. And unchecked acceleration always comes at a cost — a pattern we’ve seen too many times before. Social media, for all its power to connect, amplify voices and build community, also grew with little oversight until we were forced to confront its effects on attention spans, public discourse, and the mental health of an entire generation.
 
-Now, AI is racing down a similar path. Its carbon footprint is expanding rapidly, powered by massive server farms and compute-heavy models that require enormous energy. Training a single large language model can emit as much carbon as five cars over their entire lifetimes. And yet, our climate infrastructure hasn’t caught up — not in regulation, not in energy sourcing, and arguably, not in global coordination.
+Now, AI is racing down a similar path. Its carbon footprint is expanding rapidly, powered by massive server farms and compute-heavy models that require enormous energy. Training a single large language model can emit as much carbon as five cars over their entire lifetimes. And yet, our climate infrastructure hasn’t caught up — not in regulation, not in energy sourcing, and arguably, definitely not in global coordination.
 
-Still, we must be honest: AI is inevitable. It is already reshaping industries and accelerating workflows, and that’s not inherently a bad thing. It’s also doing some *undeniably* good things like helping make spaces more accessible to a degree that was impossible previously. For example, I recently learnt about [Tarjimly](https://www.tarjimly.org/), a nonprofit using AI for real-time language translation that helps refugees communicate. There are millions of similar use cases where AI is unarguably good.
+Still, we must be honest: AI is inevitable. It is already reshaping industries and accelerating workflows, and that’s not inherently a bad thing. It’s also doing some *undeniably* good things like helping make spaces more accessible to a degree that was impossible previously. For example, I recently learnt about [Tarjimly](https://www.tarjimly.org/), a nonprofit using AI for real-time language translation that helps refugees communicate. There are millions of similar use cases where AI is unarguably good and necessary.
 
 **The point is: we should not resist progress, but try to meet it with intention.** Avoiding a dystopian future won’t come from slowing down AI — it will come from building systems where ethics lead, not lag.
 
@@ -97,6 +97,6 @@ Because even as AI floods our feeds and mimics creativity with uncanny fluency, 
 
 That’s what unsettles me. And maybe, that’s also what reassures me.
 
-Because for all its exciting progress, maybe AI will always fall short of that final frame: the breath before a character speaks, the pause that tells a story without words. That's why only Miyazaki can make us feel what Ghibli movies do and AI can only lean into that nostalgia as a commodity. 
+Because for all its exciting progress, maybe AI will always fall short of that final frame: the breath before a character speaks, the pause that tells a story without words. That's why only Miyazaki can make us feel what Ghibli movies do and AI can only lean into that nostalgia as a commodity.
 
 **That’s not something you can prompt. The pause before the line still belongs to us. Maybe, that’s what makes art… *art*.**
