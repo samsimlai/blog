@@ -2,9 +2,12 @@
 title: "Everyone Wants to Be a Ghibli Character. So, Why Does It Feel So Wrong?"
 date: 2025-04-02
 image: /assets/ghibli-header.jpg
+permalink: /ghibli-ai-trend
 ---
 
 There’s a peculiar kind of magic in watching Studio Ghibli films. The kind that doesn’t just entertain — it lingers. It coats your soul like the afternoon light in *My Neighbor Totoro*, or the silent resilience of *Princess Mononoke*. It makes you want to touch grass, sip tea slowly, notice the wind, and wonder why we ever stopped paying attention to these things in the first place.
+
+![Ghibli header image](/assets/ghibli-header.jpg)
 
 So it makes sense why people are yearning to romanticize life through a Ghibli lens. When OpenAI CEO Sam Altman shared the new AI-generated Ghibli-style image model, it took just hours, not days, for it to go viral. Suddenly, my feed was flooded: wedding photos reimagined in soft Ghibli pastels, childhood pictures transformed into whimsical dreamscapes, even pets rendered as characters from a world that never existed, but felt deeply familiar.
 
@@ -101,16 +104,4 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 
 **That’s not something you can prompt. The pause before the line still belongs to us. Maybe, that’s what makes art… *art*.**
 
-*The views expressed in this article are solely my own and do not reflect those of any current or past employers or affiliated organizations.*
-
-<p style="font-size: 0.9rem; color: #999;">Like what you’re reading? Consider subscribing to Unprompted.</p>
-
-<form action="https://emailoctopus.com/lists/e93b25d0-101a-11f0-9e5d-09f76fc1bf00/members/embedded/1.1/add" method="post" target="_blank" style="max-width:500px; border: 1px solid #ccc; padding: 1rem; border-radius: 6px; background-color: #f9f9f9;">
-  <label for="email" style="font-weight:bold; margin-bottom:0.5rem; display:block;">📧 Your Email</label>
-  <input type="email" name="field_0" id="email" placeholder="you@example.com" required style="padding:8px; width:100%; margin-bottom:10px; border:1px solid #ccc; border-radius:4px;">
-  <input type="submit" value="Subscribe" style="background-color:#0366d6; color:white; padding:10px 16px; border:none; border-radius:4px; cursor:pointer;">
-</form>
-
-<p style="font-size: 0.9rem; color: gray; margin-top: 0.75rem;">
-You’ll be redirected briefly to confirm your subscription.
-</p>
+<small>Disclaimer: The views and opinions expressed in this blog post are solely those of the author and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company. Certain examples of people may be used within this blog post. These examples are for illustrative purposes only, and any resemblance to actual persons, living or dead, is purely coincidental. The information provided in this blog post is for general informational purposes only. The author makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the blog or the information, products, services, or related graphics contained on the blog for any purpose. Any reliance you place on such information is therefore strictly at your own risk.</small>
