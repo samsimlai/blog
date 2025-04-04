@@ -87,7 +87,7 @@ I obviously do not claim to have answers to how we can get there but I understan
 
 Until then, we, as digital consumers, users, scrollers, sharers, should keep feeling the discomfort. And more importantly, we should name it.
 
-## The paradox: Will commodifying art will only make it more missed?
+## The paradox: Will commodifying art only make it more missed?
 Specifically – when it comes to art, we’re not just experiencing a groundbreaking technological shift — we’re living through an extremely important cultural one. And nowhere is that more visible than in the way AI enables us to reproduce aesthetics at scale, to summon style with a few words. The tools are dazzling. But so is the speed at which they’re flattening the process into product.
 
 **We can’t reasonably expect society to critically engage with what it percieves as a commodity; that’s never been the norm.** So the idea that consumers will approach AI-generated art with deeper scrutiny is, frankly, wishful thinking. And in an era of frictionless creation and infinite scroll, it feels more unlikely than ever.
@@ -104,6 +104,6 @@ Because for all its exciting progress, maybe AI will always fall short of that f
 
 <hr style="border: none; border-top: 1px solid #eee; margin: 2em 0;" />
 
-Author’s note: *This blog is still a work-in-progress, so [if you’d like to subscribe, here’s a humble Google Form for now](https://docs.google.com/forms/d/1kENvPqBP1ybh6s-6N4rlubuBPe17OXe3G3MGOiuvv-k/preview). If this piece resonated (or provoked any thoughts at all), I’d [love your feedback](https://docs.google.com/forms/d/1kENvPqBP1ybh6s-6N4rlubuBPe17OXe3G3MGOiuvv-k/preview). It helps me know whether to keep writing more like this. Deeply appreciated.*
+Author’s note: *This blog is still a work-in-progress, so [if you’d like to subscribe, here’s a quick Google Form](https://docs.google.com/forms/d/1kENvPqBP1ybh6s-6N4rlubuBPe17OXe3G3MGOiuvv-k/preview). If this piece resonated (or provoked any thoughts at all), I’d [love your feedback](https://docs.google.com/forms/d/1kENvPqBP1ybh6s-6N4rlubuBPe17OXe3G3MGOiuvv-k/preview). It helps me know whether to keep writing more like this. Deeply appreciated.*
 
 *<small>Disclaimer: The views and opinions expressed in this blog post are solely those of the author and do not necessarily reflect the official policy or position of any other agency, organization, employer, or company. Certain examples of people may be used within this blog post. These examples are for illustrative purposes only, and any resemblance to actual persons, living or dead, is purely coincidental. The information provided in this blog post is for general informational purposes only. The author makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the blog or the information, products, services, or related graphics contained on the blog for any purpose. Any reliance you place on such information is therefore strictly at your own risk.</small>*
