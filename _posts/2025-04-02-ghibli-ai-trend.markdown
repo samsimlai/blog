@@ -2,6 +2,7 @@
 title: "Everyone Wants to Be a Ghibli Character. So, Why Does It Feel So Wrong?"
 date: 2025-04-02
 image: /assets/ghibli-header.jpg
+keywords: ghibli ai trend, ai ghibli art, ghibli trend, studio ghibli ai art, ai art criticism, studio ghibli ai trend
 permalink: /ghibli-ai-trend
 ---
 
